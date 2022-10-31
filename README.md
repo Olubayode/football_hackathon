@@ -15,3 +15,6 @@ Sevilla FC has an illustrious 132-year history as a football club - it is one of
 Since its inception in 2018, FC Bengaluru United has been on a robust growth trajectory, both on and off the field. In 2021 they crowned BDFA Super Division League Champions and went on to defend their title with aplomb this year. In what was a strong testimony to their growing process, FC Bengaluru United was invited to participate in the Durand Cup, Asia’s oldest football tournament, beginning in September 2021, in Kolkata, along with other top-flight Indian football clubs. The club has also garnered praise for its holistic vision of promoting the sport right from the grassroots.
 
 In January 2021, FC Bengaluru United announced their partnership with La Liga giants Sevilla FC, a five-year agreement, which focuses on technological innovation, development, and projects in the sport as well as increasing the Spanish football club’s footprint in one of the world’s most vibrant and rapidly growing football markets. Later in the year, FC Bengaluru United and Sevilla FC were awarded the Best Internationalisation Strategy by the prestigious World Football Summit (WFS) Awards.
+
+
+Datasets can be downloaded here; https://drive.google.com/drive/folders/1VwoYTq99U31s6UCTCDYMHPwmJZwqaXSC
