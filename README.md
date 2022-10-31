@@ -17,4 +17,3 @@ Since its inception in 2018, FC Bengaluru United has been on a robust growth tra
 In January 2021, FC Bengaluru United announced their partnership with La Liga giants Sevilla FC, a five-year agreement, which focuses on technological innovation, development, and projects in the sport as well as increasing the Spanish football club’s footprint in one of the world’s most vibrant and rapidly growing football markets. Later in the year, FC Bengaluru United and Sevilla FC were awarded the Best Internationalisation Strategy by the prestigious World Football Summit (WFS) Awards.
 
 
-Datasets can be downloaded here; https://drive.google.com/drive/folders/1VwoYTq99U31s6UCTCDYMHPwmJZwqaXSC
