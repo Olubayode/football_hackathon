@@ -1,5 +1,6 @@
 # football_hackathon
 
+# CHECK THE MASTER BRANCH FOR THE PROJECT 
 
 Spanish footballing giant Sevilla FC together with FC Bengaluru United, one of India’s most exciting football teams have launched a Football Hackathon – Data-Driven Player Performance Assessment. This Hackathon will be a unique opportunity to effectively use data science in the space of professional football scouting and player performance analysis and enhancement and are excited to have you on the journey. 
 
